@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MyToDoList</string>
+    <string name="create_new_to_do_list">Create new To Do List</string>
+    <string name="exit">Exit</string>
+    <string name="labelTite">Title:</string>
+    <string name="labelStatus">Status:</string>
+    <string name="labelContent">Content:</string>
+    <string name="submit">Submit</string>
+    <string name="delete">Delete</string>
+    <string name="edit">Edit</string>
+    <string name="delete_to_do_list">Delete To Do List</string>
+    <string name="save">Save</string>
+</resources>
